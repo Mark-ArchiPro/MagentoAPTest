@@ -2,10 +2,10 @@
     "name": "archipro/ap-integration",
     "description": "Sync Product and Order data with ArchiPro",
     "require": {
-        "php": "~8.0|~8.1|~7.4|~7.3",
+        "php": "~8.0|~8.1|~7.4|~7.3"
     },
     "type": "magento2-module",
-    "version": "1.0.7",
+    "version": "1.0.8",
     "autoload": {
         "files": [
             "registration.php"
