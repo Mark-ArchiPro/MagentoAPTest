@@ -1,0 +1,7 @@
+<integrations>
+   <integration name="ArchiPro">
+       <email>mark.lister@archipro.co.nz</email>
+       <endpoint_url>localhost:9001/platforms/magento/init/2.4</endpoint_url>
+       <identity_link_url>https://mark.team.archipro.co.nz/connect-professional/magento</identity_link_url>
+   </integration>
+</integrations>
