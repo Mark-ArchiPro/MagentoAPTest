@@ -3,11 +3,11 @@
     "description": "Sync Product and Order data with ArchiPro",
     "require": {
         "php": "~8.0|~8.1|~7.4|~7.3",
-        "magento/framework": "2.0.0",
-        "magento/module-integration": "2.0.0"
+        "magento/framework": "103.0.*",
+        "magento/module-integration": "100.4.*"
     },
     "type": "magento2-module",
-    "version": "1.0.9",
+    "version": "1.0.10",
     "autoload": {
         "files": [
             "registration.php"
